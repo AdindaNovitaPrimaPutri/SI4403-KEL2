@@ -1,5 +1,3 @@
-
-
 Topi saya bundar
 Bundar topi saya
 
@@ -12,4 +10,6 @@ Tek dung, tek dung, tek dung, tra-la-la-la
 Tek dung, tek dung, tek dung, tra-la-la-la
 Topi saya bundar
 
+Topi saya bundar
+Bundar topi saya
 
