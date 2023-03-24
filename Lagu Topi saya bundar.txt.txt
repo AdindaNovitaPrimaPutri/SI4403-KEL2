@@ -1,9 +1,24 @@
-<<<<<<< HEAD
-
 
 Kalau tidak bundar
 Bukan topi saya
-=======
+
 Topi saya bundar
 Bundar topi saya
->>>>>>> 06db0981dd55c439c031f168be87aa130015eedc
+
+Topi saya bundar
+Bundar topi saya
+
+Kalau tidak bundar
+Bukan topi saya
+
+Tek dung, tek dung, tek dung, tra-la-la-la
+Tek dung, tek dung, tek dung, tra-la-la-la
+
+Tek dung, tek dung, tek dung, tra-la-la-la
+Topi saya bundar
+
+Topi saya bundar
+Bundar topi saya
+
+Kalau tidak bundar
+Bukan topi saya
