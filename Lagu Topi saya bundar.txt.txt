@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 
 
 Kalau tidak bundar
 Bukan topi saya
+=======
+Topi saya bundar
+Bundar topi saya
+>>>>>>> 06db0981dd55c439c031f168be87aa130015eedc
